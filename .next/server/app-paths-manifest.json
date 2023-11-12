@@ -1,0 +1,9 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/manifest.webmanifest/route": "app/manifest.webmanifest/route.js",
+  "/page": "app/page.js",
+  "/gioi-thieu/page": "app/gioi-thieu/page.js",
+  "/bai-viet/page": "app/bai-viet/page.js",
+  "/bai-viet/[slug]/page": "app/bai-viet/[slug]/page.js"
+}

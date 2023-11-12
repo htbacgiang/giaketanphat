@@ -1,0 +1,9 @@
+{
+  "/_not-found": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/manifest.webmanifest/route": "/manifest.webmanifest",
+  "/page": "/",
+  "/gioi-thieu/page": "/gioi-thieu",
+  "/bai-viet/page": "/bai-viet",
+  "/bai-viet/[slug]/page": "/bai-viet/[slug]"
+}

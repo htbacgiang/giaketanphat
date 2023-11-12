@@ -127,10 +127,12 @@ const Blogs = ({ className, archive = false, params }) => {
 
         <div className="lg:w-11/12 mx-auto flex flex-wrap justify-items-center">
           <ReactPaginate
+            nextLabel="Tiếp >"
             onPageChange={handlePageClick}
             pageRangeDisplayed={3}
             marginPageDisplayed={2}
             pageCount={pageCount}
+            previousLabel="< Lùi lại"
             pageClassName="page-item"
             pageLinkClassName="page-link"
             previousClassName="page-item"

@@ -15,7 +15,7 @@ import Col from 'react-bootstrap/Col';
 
 const Footer = () => {
   return (
-    <section className="footer text-white bg-[green]">
+    <section className="footer text-white bg-[green] mt-10">
 
       <div className="grid grid-cols-1 sm:gird-cols-3 lg:grid-cols-4 gap-6 sm:px-8 px-5 py-4 sm:text-center">
         <ul className="px-5 sm:text-start flex sm:block flex-col items-center">

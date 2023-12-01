@@ -1,8 +1,8 @@
 {
   "version": 1,
   "functions": {
-    "/bai-viet": {},
     "/gioi-thieu": {},
+    "/bai-viet": {},
     "/bai-viet/[slug]": {}
   }
 }
